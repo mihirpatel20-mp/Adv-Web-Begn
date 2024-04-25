@@ -31,14 +31,13 @@ about.php: Displays available destination packages.
 
 ## Setup Instructions
 
-Clone the repository to your local machine.  
-bash  
-Copy code  
-git clone https://github.com/yourusername/happy-tours-travel.git  
-Set up a local web server environment (e.g., XAMPP, WAMP, MAMP).  
-Import the provided MySQL Lite database schema (database.sql) into your local database server.  
-Configure the database connection settings in the PHP files located in the /includes directory.  
-Launch the website by accessing http://localhost/happy-tours-travel in your web browser.   
+1. Clone the repository to your local machine.   
+git clone https://github.com/yourusername/happy-tours-travel.git
+
+2. Set up a local web server environment (e.g., XAMPP, WAMP, MAMP).  
+3. Import the provided MySQL Lite database schema (database.sql) into your local database server.  
+4. Configure the database connection settings in the PHP files located in the /includes directory.  
+5. Launch the website by accessing http://localhost/happy-tours-travel in your web browser.   
 
 ## Contributions
 
